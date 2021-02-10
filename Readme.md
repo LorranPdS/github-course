@@ -26,7 +26,7 @@ As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado 
 As configurações realizadas através dos comandos abaixo serão incluídas no arquivo citado acima.
 
 ##### Setar usuário
-	git config --global user.name "Fulano de Tal"
+	git config --global user.name "Fulano Tal"
 
 ##### Setar email
 	git config --global user.email fulanodetal@gmail.com
